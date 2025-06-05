@@ -64,7 +64,7 @@ Art_pro.No.2/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Art_pro.No.2.git
+git clone https://github.com/AlharathAjlan/Art_of_IslamicBulding
 ```
 
 2. Open `index.html` in your web browser to view the project.
